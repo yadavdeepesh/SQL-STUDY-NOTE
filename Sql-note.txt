@@ -1,0 +1,16 @@
+// SQL (Sturctured Query Language)
+
+// CREATE DATABASE
+create database temp1;
+
+// drop the database
+drop database temp1;
+
+CREATE DATABASE TEMP2;
+DROP DATABASE TEMP2;
+
+CREATE DATABASE COLLEGE;
+
+// use the current database
+
+USE COLLEGE;
